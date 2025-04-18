@@ -5,8 +5,8 @@
 #include <ArduinoJson.h>
 #include "time.h"
 
-const char* ssid = "Vietien";
-const char* password = "26042004";
+const char* ssid = "";
+const char* password = "";
 
 #define Ledwifi 2
 #define RESET_BUTTON 0  // chân bạn nối nút
